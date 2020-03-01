@@ -9,3 +9,7 @@ This repository consists of the microtasks stated for the project: Implement Git
 
 Pull request link: https://github.com/chaoss/augur/pull/560/
 
+- [X] **Microtask 3:** Added a new metric alluding to closed PRs which weren't merged during a certain time interval. Also updated the API docs along with expected function arguments & output.
+
+Pull request link: https://github.com/chaoss/augur/pull/556/
+
