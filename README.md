@@ -11,5 +11,10 @@ Pull request link: https://github.com/chaoss/augur/pull/560/
 
 - [X] **Microtask 3:** Added a new metric alluding to closed PRs which weren't merged during a certain time interval. Also updated the API docs along with expected function arguments & output.
 
-Pull request link: https://github.com/chaoss/augur/pull/556/
+Pull request links: https://github.com/chaoss/augur/pull/556/, https://github.com/chaoss/augur/pull/573
+
+- [X] **Microtask 4:** Increased the test coverage by adding unit tests for common functions used across multiple workers.
+
+Pull request link: https://github.com/chaoss/augur/pull/570
+
 
